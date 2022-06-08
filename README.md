@@ -1,1 +1,1 @@
-# Pensamento-Computacional-1A
+# PensamentoComputacional1A
